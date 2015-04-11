@@ -1,3 +1,4 @@
 -ssh root@192.168.100.105
 -password: qwerty123
--scp /path/to/local/file root@192.168.100.105:/home/root
+- scp root@192.168.100.105:/home/root/*.* .
+- scp test.py root@192.168.100.105:/home/root/.
