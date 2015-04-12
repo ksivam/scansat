@@ -9,6 +9,14 @@ The ScanSat is an autonomous CubeSat that is docked with a Dragon-sized spacecra
 
 The application was developed on April 11-12, 2015 at [_San Fransisco 2015 space apps challenge Hackathon_](http://spaceappssf.weebly.com/).
 
+# Deliverables
+  * Reaction wheels
+  * Camera Hardware
+    * Image processing software to dock the camsat to mothership
+    * Other apps to scan/process/monitor the structural integrity of ship
+  * Docking mechanism
+  * Magnetic propulsion
+
 # Team Members
 Our team is comprised of:
 
