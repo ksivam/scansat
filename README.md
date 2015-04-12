@@ -20,10 +20,10 @@ The application was developed on April 11-12, 2015 at [_San Fransisco 2015 space
 # Team Members
 ![alt text](https://raw.githubusercontent.com/ksivam/scansat/master/pics/team.JPG).
 
-Standing(right to left):
+- Standing(right to left):
  * Anand Biradar
  * Sheen Kao
-Sitting (right to left):
+- Sitting (right to left):
  * Robert Chen
  * Krishna Sadasivam
 
