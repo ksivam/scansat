@@ -18,6 +18,7 @@ The application was developed on April 11-12, 2015 at [_San Fransisco 2015 space
   * Magnetic propulsion
 
 # Team Members
+![alt text](https://raw.githubusercontent.com/ksivam/scansat/master/pics/team.JPG)
 Our team is comprised of:
 
 
