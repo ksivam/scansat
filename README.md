@@ -21,11 +21,11 @@ The application was developed on April 11-12, 2015 at [_San Fransisco 2015 space
 ![alt text](https://raw.githubusercontent.com/ksivam/scansat/master/pics/team.JPG).
 
 - Standing(right to left):
- * Anand Biradar
- * Sheen Kao
+ * Anand Biradar - MechE and Aerospace Engineer
+ * Sheen Kao - Mechanical Engineer/Physicist
 - Sitting (right to left):
- * Robert Chen
- * Krishna Sadasivam
+ * Robert J. Chen - Software Engineer
+ * Krishna Sadasivam - Software Engineer
 
 # Technologies, APIs
 
